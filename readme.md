@@ -1,4 +1,4 @@
-# 这是为了入门学习python对gis的二次开发而创建的一个项目。
+# 这是为了入门学习python对gis的二次开发而创建的一个项目笔记。
 - 安装模块
 ### 下面是一些重要的包
 ``import geopandas as gpd``
